@@ -4,3 +4,4 @@ A helpful list of links for a Javascript developer to understand and wrap their 
 
 * Introduction to Go for JavaScript Developers: http://slides.com/sernst/gointro
 * Making the Switch from Node.js to Golang: https://blog.codeship.com/making-the-switch-from-node-js-to-golang/
+* Getting Started with WebSockets in Go: https://blog.codeship.com/getting-started-with-websockets-in-go/
