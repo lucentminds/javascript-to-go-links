@@ -7,3 +7,4 @@ A helpful list of links for a Javascript developer to understand and wrap their 
 * Getting Started with WebSockets in Go: https://blog.codeship.com/getting-started-with-websockets-in-go/
 * Organizing Go code: https://talks.golang.org/2014/organizeio.slide#1
 * Five suggestions for setting up a Go project: https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project
+* The 7 stages of becoming a Go programmer: https://opensource.com/article/17/9/seven-stages-becoming-go-programmer?utm_medium=Email&utm_campaign=weekly&sc_cid=701f2000000tiA0AAI
